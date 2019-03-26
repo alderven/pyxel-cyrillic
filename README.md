@@ -7,7 +7,7 @@ Currently [pyxel](https://github.com/kitao/pyxel) [doesn't support](https://gith
 
 Some symbols may absent. Feel free to add it yourself.
 
-Sample usage:
+### Sample usage:
 ```
 import pyxel
 import pyxelcyrillic
