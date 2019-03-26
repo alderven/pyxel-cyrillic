@@ -5,6 +5,8 @@ Currently [pyxel](https://github.com/kitao/pyxel) [doesn't support](https://gith
 
 ![](https://github.com/alderven/pyxel-cyrillic/blob/master/alphabet.png?raw=true)
 
+Some symbols may absent. Feel free to add it yourself.
+
 Sample usage:
 ```
 import pyxel
