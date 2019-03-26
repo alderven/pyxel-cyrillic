@@ -1,7 +1,7 @@
 # pyxel-cyrillic
 Cyrillic font for python pyxel
 
-Right now [pyxel](https://github.com/kitao/pyxel) [not supporting](https://github.com/kitao/pyxel/issues/126) cyrillic font. This is workaround script for using cyrillic font.
+Currently [pyxel](https://github.com/kitao/pyxel) [doesn't support](https://github.com/kitao/pyxel/issues/126) cyrillic font. This is workaround script for using cyrillic font.
 
 ![](https://github.com/alderven/pyxel-cyrillic/blob/master/alphabet.png?raw=true)
 
